@@ -1,0 +1,31 @@
+table{
+    width: 100%;
+}
+
+thead{
+    background-color: #474747;
+    height: 3rem;
+}
+
+th{
+    width: 2rem;
+    color: aliceblue ;
+}
+
+td{
+    padding: 0.7rem 0.7rem;
+    vertical-align: center;
+}
+
+table, td {
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+}
+
+.tdId, th{
+    text-align: center;
+}
+
+span{
+    margin-left: 2.5rem;
+}

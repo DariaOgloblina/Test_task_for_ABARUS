@@ -1,0 +1,21 @@
+.pagesDiv{
+    margin-top: 1rem;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    font-size: x-large;
+    font-weight: 600;
+    color: #474747;
+}
+
+.divWithPages{
+    width: 70%;
+    display: flex;
+    justify-content: center;
+}
+
+.pageItem{
+    padding: 0.3rem;
+    font-size: 1.4rem;
+}
